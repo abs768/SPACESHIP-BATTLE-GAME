@@ -2,6 +2,7 @@
 using pygame module developed a simple game .
 
 #Game Preview:
+
 https://user-images.githubusercontent.com/91774301/183067822-fe813c0c-c393-4896-9867-27d3c85e28ac.mp4
 
 1)#WINDOW:
